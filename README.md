@@ -1,6 +1,6 @@
 # Dropbox Demo
 
-This is Ryan Sims' Carousel demo that demonstrates usage of modal, navigation and tab controllers, animation, delays and error checking. For signin, please use "password" as the password.
+This is Ryan Sims' Carousel demo that demonstrates usage of modal, navigation, animation, delays and error checking. For signin, please use "password" as the password.
 
 Time spent: 9-10 hours spent in total
 
