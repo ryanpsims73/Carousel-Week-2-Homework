@@ -6,8 +6,8 @@ Time spent: 9-10 hours spent in total
 
 Completed user stories:
 
-* [*] Static photo tiles on the initial screen
-** [*] Optional: Photo tiles move with scrolling
+* Static photo tiles on the initial screen
+** Optional: Photo tiles move with scrolling
 * [*] Sign In
 * [*] Tapping on email/password reveals the keyboard and shifts the scrollview and Sign In button up.
 ** [*] User sees an error alert when no email is present or no password is present.
