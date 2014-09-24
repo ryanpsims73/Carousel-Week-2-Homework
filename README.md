@@ -19,15 +19,15 @@ Completed user stories:
  * &#10004; Optional: Tapping the Agree to Terms checkbox selects the checkbox.
  * &#10004; Optional: Tapping on Terms shows a webview with the terms.
  * &#10004; Optional: User is taken to the tutorial screens upon tapping the "Create a Dropbox" button.
-* &#10004; Tutorial Screens
+* Tutorial Screens
  * &#10004; User can page between the screens
  * &#10004; Optional: User can page between the screens with updated dots
  * &#10004; Optional: Upon reaching the 4th page, hide the dots and show the "Take Carousel for a Spin" button.
-* &#10004; Image Timeline
+* Image Timeline
  * &#10004; Display a scrollable view of images.
  * &#10004; User can tap on the conversations button to see the conversations screen (push).
  * &#10004; User can tap on the profile image to see the settings view (modal from below).
-* &#10004; Settings
+* Settings
  * &#10004; User can dismiss the settings screen.
  * &#10004; User can log out
  * &#10004; Optional: Learn more about Carousel
